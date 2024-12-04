@@ -1,7 +1,9 @@
-Music (arm-v7a): 7.29.51  
+GooglePhotos (arm64-v8a): 7.9.0.700107295  
+GooglePhotos (arm-v7a): 7.9.0.700107295  
 Music (arm64-v8a): 7.29.51  
-Twitch: 16.9.1  
+Music (arm-v7a): 7.29.51  
 TikTok: 36.5.4  
+Twitch: 16.9.1  
 YouTube: 19.46.42  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
