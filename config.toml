@@ -69,7 +69,10 @@ dpi = "120-640dpi"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [TikTok]
-enabled = false
+enabled = true
+build-mode = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
