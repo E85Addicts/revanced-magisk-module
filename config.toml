@@ -1,6 +1,6 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
-
+patches-version = "dev"
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
@@ -8,6 +8,7 @@ parallel-jobs = 1
 
 [YouTube]
 build-mode = "both"
+module-prop-name = "youtube-E85"
 excluded-patches = ""
 included-patches = ""
 version = "auto"
@@ -17,6 +18,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [Music]
 build-mode = "both"
+module-prop-name = "music-E85"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
@@ -36,6 +38,9 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 arch = "both"
+module-prop-name = "music-E85"
+included-patches = "'Custom header for YouTube Music'"
+patcher-args = "--legacy-options options.json"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
@@ -45,6 +50,9 @@ patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
+module-prop-name = "youtube-E85"
+included-patches = "'Custom header for YouTube'"
+patcher-args = "--legacy-options options.json"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
@@ -85,3 +93,22 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 [IconPackStudio]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+
+[YouTube-Custom]
+enabled = true
+exclusive-patches = true
+module-prop-name = "youtube-E85"
+build-mode = "module"
+included-patches = """\
+    'Disable precise seeking gesture' 'Remove background playback restrictions' \
+    'Seekbar tapping' 'Video ads' 'Hide ads' 'Enable tablet layout' 'Restore old video quality menu' 'Seekbar thumbnails' \
+    'Return YouTube Dislike' 'Miniplayer' 'Theme' 'SponsorBlock' \
+    """
+patcher-args = """\
+    -e 'Change header' -Oheader=logos/vanced_og_header/ \
+    -e 'Custom branding' -OiconPath=logos/vanced_og_launcher/ \
+    """
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
