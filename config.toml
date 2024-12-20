@@ -11,6 +11,10 @@ build-mode = "both"
 module-prop-name = "youtube-E85"
 excluded-patches = ""
 included-patches = ""
+patcher-args = """\
+    -e 'Change header' -Oheader=logos/vanced_og_header/ \
+    -e 'Custom branding' -OiconPath=logos/vanced_og_launcher/ \
+    """
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
