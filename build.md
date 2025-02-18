@@ -13,22 +13,14 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/E85Addicts/revanced-magisk-module)
   
 CLI: E85Addict/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.12.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.12.0)
+Patches: ReVanced/patches-5.13.0-dev.2.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.13.0-dev.2)
 
 CLI: E85Addict/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.12.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.12.0)
-
 CLI: E85Addict/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.12.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.12.0)
-
-CLI: E85Addict/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.12.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.12.0)  
+CLI: E85Addict/revanced-cli-5.0.0-all.jar    
 
 Skipped:  
 Patches: Aunali321/patches-1.7.0-dev.4.rvp    
 Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp          
+Patches: inotia00/patches-5.4.1.rvp            
