@@ -1,7 +1,9 @@
+Music: 8.05.51
+downloaded from: [APKMirror - Music](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-8-05-51-release/youtube-music-8-05-51-android-apk-download/)  
 TikTok: 36.5.4
 downloaded from: [Archive - TikTok](https://archive.org/download/e85-apks/apks/com.zhiliaoapp.musically)  
 YouTube: 19.47.53
-downloaded from: [APKMirror - YouTube](https://youtube.en.uptodown.com/android/download/1039619673)  
+downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-47-53-release/youtube-19-47-53-android-apk-download/)  
 YouTube-Custom: 19.47.53
 downloaded from: [APKMirror - YouTube-Custom](https://www.apkmirror.com/)  
 
@@ -11,13 +13,21 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/E85Addicts/revanced-magisk-module)
   
 CLI: E85Addict/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.13.0-dev.19.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.13.0-dev.19)
+Patches: ReVanced/patches-5.13.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.13.0)
 
 CLI: E85Addict/revanced-cli-5.0.0-all.jar  
+Patches: ReVanced/patches-5.13.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.13.0)
+
 CLI: E85Addict/revanced-cli-5.0.0-all.jar  
-CLI: E85Addict/revanced-cli-5.0.0-all.jar    
+Patches: ReVanced/patches-5.13.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.13.0)
+
+CLI: E85Addict/revanced-cli-5.0.0-all.jar  
+Patches: ReVanced/patches-5.13.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.13.0)  
 
 Skipped:  
 Patches: Aunali321/patches-1.7.0-dev.4.rvp    
-Patches: inotia00/patches-5.4.2-dev.1.rvp      
+Patches: inotia00/patches-5.4.2-dev.1.rvp        
