@@ -13,6 +13,7 @@ cli-version = "dev"
 enabled = true
 build-mode = "both"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+version = "9.0.30.631"
 
 [TikTok]
 enabled = true
