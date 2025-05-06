@@ -1,4 +1,4 @@
-Spotify: 9.0.40.390
+Spotify: 9.0.40.391
 downloaded from: [Archive - Spotify](https://archive.org/download/e85-apks/apks/com.spotify.music)  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -7,8 +7,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/E85Addicts/revanced-magisk-module)
   
 CLI: E85Addict/revanced-cli-5.0.1-all.jar  
-Patches: ReVanced/patches-5.23.0-dev.3.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.23.0-dev.3)  
+Patches: ReVanced/patches-5.23.0-dev.5.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.23.0-dev.5)  
 
 Skipped:  
-Patches: E85Addicts/patches-5.22.0.rvp        
+Patches: E85Addicts/patches-5.22.0.rvp          
