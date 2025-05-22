@@ -1,6 +1,6 @@
 {
-  "version": "v9.0.44.471 (patches: 5.24.0)",
-  "versionCode": 52,
-  "zipUrl": "https://github.com/E85Addicts/revanced-magisk-module/releases/download/52/spotify-revanced-magisk-v9.0.44.471-all.zip",
+  "version": "v9.0.44.478 (patches: dev.2)",
+  "versionCode": 53,
+  "zipUrl": "https://github.com/E85Addicts/revanced-magisk-module/releases/download/53/spotify-revanced-magisk-v9.0.44.478-all.zip",
   "changelog": "https://raw.githubusercontent.com/E85Addicts/revanced-magisk-module/update/build.md"
 }
