@@ -1,4 +1,4 @@
-Spotify: 9.0.48.367
+Spotify: 9.0.48.380
 downloaded from: [Archive - Spotify](https://archive.org/download/e85-apks/apks/com.spotify.music)  
 TikTok: 40.1.4
 downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tiktok-40-1-4-release/tiktok-40-1-4-2-android-apk-download/)  
