@@ -1,5 +1,7 @@
 Spotify: 9.0.48.380
 downloaded from: [Archive - Spotify](https://archive.org/download/e85-apks/apks/com.spotify.music)  
+TikTok: 40.3.1
+downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tiktok-40-3-1-release/tiktok-40-3-1-2-android-apk-download/)  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
