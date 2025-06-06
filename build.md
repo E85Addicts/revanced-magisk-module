@@ -11,4 +11,4 @@ Patches: ReVanced/patches-5.27.0-dev.1.rvp
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.27.0-dev.1)  
 
 Skipped:  
-Patches: E85Addicts/patches-5.26.0.rvp      
+Patches: E85Addicts/patches-5.25.0.rvp      
