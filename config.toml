@@ -24,3 +24,9 @@ patches-source = "E85Addicts/revanced-patches"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 excluded-patches = "'Remember clear display'"
+
+[Pandora]
+enabled = true
+build-mode = "both"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pandora/pandora-music-podcasts/"
