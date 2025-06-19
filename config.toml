@@ -19,7 +19,7 @@ version = "auto"
 [TikTok]
 enabled = true
 build-mode = "both"
-version = "latest"
+version = "40.4.1"
 patches-source = "E85Addicts/revanced-patches"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
