@@ -15,7 +15,7 @@ Patches: E85Addicts/patches-5.29.0.rvp
 [Changelog](https://github.com/E85Addicts/revanced-patches/releases/tag/v5.29.0)
 
 CLI: E85Addict/revanced-cli-5.0.1-all.jar  
-Patches: ReVanced/patches-5.29.1-dev.1.rvp  
+Patches: ReVanced/patches-5.28.1-dev.1.rvp  
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.29.1-dev.1)
 
 CLI: E85Addict/revanced-cli-5.0.1-all.jar    
