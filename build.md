@@ -15,4 +15,4 @@ Patches: ReVanced/patches-5.29.1-dev.1.rvp
 CLI: E85Addict/revanced-cli-5.0.1-all.jar    
 
 Skipped:  
-Patches: E85Addicts/patches-5.29.0.rvp    
+Patches: E85Addicts/patches-5.28.0.rvp    
