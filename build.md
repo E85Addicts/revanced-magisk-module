@@ -11,5 +11,5 @@ Patches: E85Addicts/patches-5.31.1.rvp
 [Changelog](https://github.com/E85Addicts/revanced-patches/releases/tag/v5.31.1)  
 
 Skipped:  
-Patches: ReVanced/patches-5.31.1.rvp  
-Patches: ReVanced/patches-5.31.1.rvp    
+Patches: ReVanced/patches-5.31.0.rvp  
+Patches: ReVanced/patches-5.31.0.rvp    
