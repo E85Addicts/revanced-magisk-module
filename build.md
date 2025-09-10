@@ -1,3 +1,5 @@
+Pandora: 2507.1
+downloaded from: [APKMirror - Pandora](https://www.apkmirror.com/apk/pandora/pandora-music-podcasts/pandora-music-podcasts-2507-1-release/pandora-music-podcasts-2507-1-android-apk-download/)  
 Spotify: 9.0.76.1126
 downloaded from: [Archive - Spotify](https://archive.org/download/e85-apks/apks/com.spotify.music)  
 
@@ -13,4 +15,4 @@ Patches: ReVanced/patches-5.35.0-dev.5.rvp
 CLI: E85Addict/revanced-cli-5.0.1-all.jar    
 
 Skipped:  
-Patches: E85Addicts/patches-5.34.0.rvp          
+Patches: E85Addicts/patches-5.34.0.rvp            
