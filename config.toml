@@ -12,6 +12,7 @@ cli-version = "dev"
 [Spotify]
 enabled = true
 build-mode = "both"
+patches-source = "anddea/revanced-patches"
 archive-dlurl = "https://archive.org/download/e85-apks/apks/com.spotify.music"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "auto"
