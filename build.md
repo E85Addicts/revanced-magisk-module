@@ -1,5 +1,3 @@
-Pandora: 2509.1
-downloaded from: [APKMirror - Pandora](https://www.apkmirror.com/apk/pandora/pandora-music-podcasts/pandora-music-podcasts-2509-1-release/pandora-music-podcasts-2509-1-android-apk-download/)  
 Spotify: 9.0.82.1032
 downloaded from: [Archive - Spotify](https://archive.org/download/e85-apks/apks/com.spotify.music)  
 
@@ -10,11 +8,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
   
 CLI: E85Addict/revanced-cli-5.0.1-all.jar  
 Patches: anddea/patches-3.14.0-dev.9.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.14.0-dev.9)
-
-CLI: E85Addict/revanced-cli-5.0.1-all.jar  
-Patches: ReVanced/patches-5.42.2-dev.1.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.42.2-dev.1)  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.14.0-dev.9)  
 
 Skipped:  
-Patches: E85Addicts/patches-5.42.1.rvp        
+Patches: ReVanced/patches-5.42.2-dev.1.rvp  
+Patches: E85Addicts/patches-5.42.1.rvp          
