@@ -12,4 +12,4 @@ Patches: anddea/patches-3.14.0-dev.9.rvp
 
 Skipped:  
 Patches: ReVanced/patches-5.42.2-dev.1.rvp  
-Patches: E85Addicts/patches-5.42.1.rvp            
+Patches: E85Addicts/patches-5.42.1.rvp              
