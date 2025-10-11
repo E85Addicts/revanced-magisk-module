@@ -13,8 +13,8 @@ Patches: anddea/patches-3.14.0-dev.9.rvp
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.14.0-dev.9)
 
 CLI: E85Addict/revanced-cli-5.0.1-all.jar  
-Patches: ReVanced/patches-5.42.2-dev.3.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.42.2-dev.3)  
+Patches: ReVanced/patches-5.43.0-dev.1.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.43.0-dev.1)  
 
 Skipped:  
-Patches: E85Addicts/patches-5.42.1.rvp                    
+Patches: E85Addicts/patches-5.42.1.rvp                      
