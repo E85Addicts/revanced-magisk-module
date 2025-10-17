@@ -1,4 +1,4 @@
-Spotify: 9.0.86.1358
+Spotify: 9.0.88.1405
 downloaded from: [Archive - Spotify](https://archive.org/download/e85-apks/apks/com.spotify.music)  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -12,4 +12,4 @@ Patches: anddea/patches-3.14.0-dev.9.rvp
 
 Skipped:  
 Patches: ReVanced/patches-5.43.2-dev.1.rvp  
-Patches: E85Addicts/patches-5.43.1.rvp            
+Patches: E85Addicts/patches-5.43.1.rvp              
