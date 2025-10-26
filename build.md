@@ -17,4 +17,4 @@ Patches: ReVanced/patches-5.44.0-dev.4.rvp
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.44.0-dev.4)  
 
 Skipped:  
-Patches: E85Addicts/patches-5.44.0.rvp          
+Patches: E85Addicts/patches-5.44.0.rvp            
