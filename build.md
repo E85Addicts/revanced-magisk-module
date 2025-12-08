@@ -7,9 +7,9 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/E85Addicts/revanced-magisk-module)
   
 CLI: E85Addict/revanced-cli-5.0.1-all.jar  
-Patches: ReVanced/patches-5.47.0-dev.7.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0-dev.7)  
+Patches: ReVanced/patches-5.47.0-dev.11.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0-dev.11)  
 
 Skipped:  
 Patches: anddea/patches-3.15.0-dev.3.rvp  
-Patches: E85Addicts/patches-5.46.0.rvp                        
+Patches: E85Addicts/patches-5.46.0.rvp                          
