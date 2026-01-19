@@ -1,6 +1,6 @@
 {
-  "version": "v2510.1.1 (patches dev.9.rvp)",
-  "versionCode": 361,
-  "zipUrl": "https://github.com/E85Addicts/revanced-magisk-module/releases/download/361/pandora-revanced-magisk-v2510.1.1-all.zip",
+  "version": "v2510.1.1 (patches dev.13.rvp)",
+  "versionCode": 394,
+  "zipUrl": "https://github.com/E85Addicts/revanced-magisk-module/releases/download/394/pandora-revanced-magisk-v2510.1.1-all.zip",
   "changelog": "https://raw.githubusercontent.com/E85Addicts/revanced-magisk-module/update/build.md"
 }
