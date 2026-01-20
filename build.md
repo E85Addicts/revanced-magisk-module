@@ -17,4 +17,4 @@ Patches: ReVanced/patches-5.48.0-dev.13.rvp 
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0-dev.13)  
 
 Skipped:  
-Patches: E85Addicts/patches-5.47.0.rvp                                                                                                                                    
+Patches: E85Addicts/patches-5.47.0.rvp                                                                                                                                      
